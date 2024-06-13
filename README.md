@@ -1,7 +1,8 @@
 # Implementa-o-Estrutura-de-dados
-*Trabalho de implementação de conceitos de pilhas, filas e listas em C.
+* Trabalho de implementação de conceitos de pilhas, filas e listas em C.
   - Projeto consiste na implementação de TAD's na criação de coleções genéricas.
-*Roteiro para teste:
+    
+* Roteiro para teste:
   - 1 Crie uma coleção
   - 2 Insira tres elementos na coleção
   - 3 Liste os elementos da Colecao
